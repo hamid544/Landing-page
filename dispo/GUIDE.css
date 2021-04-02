@@ -12,6 +12,7 @@ html{
 
 h1{
     font-size: 2.6rem;
+    color: snow;
 }
 
 h2{
@@ -29,11 +30,13 @@ h5{
     font-size: 2.8rem;
 }
 
-li
-button{
-    font-size: 2rem;
-
+a{
+    text-decoration: none;
+    font-size: 3rem;
+    font-weight: 23;
+    color: cornsilk;
 }
+
 
 a{
     color: #ffffff;
@@ -45,12 +48,13 @@ body{
     font-family: 'Poppins', sans-serif;
     background-image: url('ingl.jpg');
     background-position:top;
+    background-size: cover;
 }
 
 /* HEADER */
 
 .main-head{
-    background: #5e7669;
+    background-color: rgba(91, 92, 94, 0.281);
     color: #ffffff;
 }
 
